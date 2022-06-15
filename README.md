@@ -1,2 +1,2 @@
-# 6-Mobile-Developer
+# 6-Mobile-Development
 Applications in Android, IOS ...
